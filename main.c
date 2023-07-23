@@ -3,5 +3,6 @@
 
 int main(){
     print_hello();
+    printf("+++++++");
     return 0;
 }
